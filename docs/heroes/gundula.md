@@ -1,0 +1,52 @@
+# Gundula
+
+<p style="text-align: center;" markdown>![Gundula](../assets/player-deck-back.webp){ width=340 align=right }</p>
+___
+<p style="text-align: center;" markdown>[:magic: Maga de Batalla](index.md)</p>
+___
+<p style="text-align: center;" markdown>[Bastión](../towns/stronghold.md)</p>
+___
+
+<p style="text-align: center;" markdown>[:attack:](../statistics/attack.md)&nbsp;2</br>[:defense:](../statistics/defense.md)&nbsp;1</br>[:empower:](../statistics/power.md)&nbsp;1</br>[:skill:](../statistics/knowledge.md)&nbsp;1</p>
+___
+<p style="text-align: center;" markdown>[Sabiduría](../abilities/wisdom.md)</p>
+___
+
+## Especialidad
+
+=== "Lentitud Ⅰ"
+
+    <figure markdown="span">
+        ![Lentitud Ⅰ](../assets/player-deck-back.webp){ width="340" align=right }
+    </figure>
+
+=== "Lentitud Ⅳ"
+
+    <figure markdown="span">
+        ![Lentitud Ⅳ](../assets/player-deck-back.webp){ width="340" align=right }
+    </figure>
+
+=== "Lentitud Ⅵ"
+
+    <figure markdown="span">
+        ![Lentitud Ⅵ](../assets/player-deck-back.webp){ width="340" align=right }
+    </figure>
+
+
+| Level | Description |
+| :---: | :---: |
+| Ⅰ | :ongoing: Durante este Combate, la :initiative: de la [unidad](../units/index.md) seleccionada decrece en 1. |
+| Ⅳ | :ongoing: Durante este Combate, la :initiative: de la [unidad](../units/index.md) seleccionada decrece en 2. |
+| Ⅵ | :ongoing: Durante este Combate, la :initiative: de la [unidad](../units/index.md) seleccionada decrece en 3. |
+
+
+## Viene Con
+
+- [Expansión de Bastión](../content/stronghold_expansion.md)
+
+
+## Ver También
+
+- [Lista de Héroes](index.md)
+- [Lista de Ciudades](../towns/index.md)
+
