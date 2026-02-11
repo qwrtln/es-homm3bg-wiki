@@ -1,0 +1,61 @@
+# Zombis
+
+=== "Pocos"
+
+    <figure markdown="span">
+        ![Pocos Zombies](../assets/units-necropolis-bronze-zombies-few.webp){ width="340" align=right }
+    </figure>
+
+=== "Manada"
+
+    <figure markdown="span">
+        ![Manada de Zombies](../assets/units-necropolis-bronze-zombies-pack.webp){ width="340" align=right }
+    </figure>
+
+=== "Neutral"
+
+    <figure markdown="span">
+        ![Neutral Zombies](../assets/units-neutral-bronze-zombies.webp){ width="340" align=right }
+    </figure>
+
+=== "Crypt"
+
+    <figure markdown="span">
+        ![Crypt Zombies](../assets/units-blank-bronze.webp){ width="340" align=right }
+    </figure>
+
+
+| Statistics | Few | Pack | Neutral | Crypt |
+| :--- | :---: | :---: | :---: | :---: |
+| Town | [Necropolis](../towns/necropolis.md) | [Necropolis](../towns/necropolis.md) | [Neutral](../towns/neutral.md) | - |
+| Tier | :bronze: | :bronze: | :bronze: | - |
+| Type | [:unit_ground:](index.md#ground-units) | [:unit_ground:](index.md#ground-units) | [:unit_ground:](index.md#ground-units) | [:unit_ground:](index.md#ground-units) |
+| :attack: | 2 | 2 | 2 | 1 |
+| :defense: | 1 | 1 | 0 | 0 |
+| :health_points: | 3 | 3 | 4 | 2 |
+| :initiative: | 3 | **4** | 3 | 3 |
+| Cost | 3 :gold: | 4 :gold: | 5 :gold: | - |
+| Abilities | :unit_passive: If the attacker resolves a "+1" on [Attack die](../keywords/dice.md#attack-die), gain +1 :defense:. | :unit_passive: If the attacker resolves a "0" or a +1" on [Attack die](../keywords/dice.md#attack-die), gain +1 :defense:. | :unit_passive: If the attacker resolves a "0" or a "+1" on an [Attack die](../keywords/dice.md#attack-die), gain +1 :defense: | :unit_passive: If the attacker resolves a "+1" on [Attack die](../keywords/dice.md#attack-die) against this unit, gain +1 :defense:. |
+
+
+## Héroes Con Especialidad
+
+- [:magic: Sandro](../heroes/sandro.md#specialty)
+
+
+## Notas
+
+- La capacidad se activa cuando se realiza un ataque regular contra los zombis, así como un ataque de represalia.
+
+
+## Viene Con
+
+- [Juego Principal](../content/core_game.md)
+- [Naval Battles Expansion](../content/naval_battles_expansion.md) (Crypt)
+
+
+## Ver También
+
+- [Crypt (Creature Bank)](../fields/crypt_creature_bank.md)
+- [Lista de Unidades](index.md)
+- [Lista de Ciudades](../towns/index.md)

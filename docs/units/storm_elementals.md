@@ -1,0 +1,43 @@
+# Elementales de Tormenta
+
+=== "Pocos"
+
+    <figure markdown="span">
+        ![Pocos Storm Elementals](../assets/units-blank-bronze.webp){ width="340" align=right }
+    </figure>
+
+=== "Manada"
+
+    <figure markdown="span">
+        ![Manada de Storm Elementals](../assets/units-blank-bronze.webp){ width="340" align=right }
+    </figure>
+
+=== "Neutral"
+
+    <figure markdown="span">
+        ![Neutral Storm Elementals](../assets/units-blank-bronze.webp){ width="340" align=right }
+    </figure>
+
+
+| Statistics | Few | Pack | Neutral |
+| :--- | :---: | :---: | :---: |
+| Town | [Conflux](../towns/conflux.md) | [Conflux](../towns/conflux.md) | [Neutral](../towns/neutral.md) |
+| Tier | :bronze: | :bronze: | :bronze: |
+| Type | [:unit_ground:](index.md#ground-units) | [:unit_ranged:](index.md#ranged-units) | [:unit_ranged:](index.md#ranged-units) |
+| :attack: | 2 | 2 | 2 |
+| :defense: | 0 | 0 | 0 |
+| :health_points: | 3 | **5** | 3 |
+| :initiative: | 7 | **8** | 7 |
+| Cost | 3 :gold: | 5 :gold: | 5 :gold: |
+| Abilities | - | :activation: Add +1 :power: to the first [Air Magic spell](../spells/index.md#school-of-air-magic) you cast during this Activation. | :unit_passive: Immune to [Magic Arrow](../spells/magic_arrow.md) and [Air Magic :spell:](../spells/index.md#school-of-air-magic). This unit deals elemental damage. |
+
+
+## Viene Con
+
+- [Expansión de Conflujo](../content/conflux_expansion.md)
+
+
+## Ver También
+
+- [Lista de Unidades](index.md)
+- [Lista de Ciudades](../towns/index.md)

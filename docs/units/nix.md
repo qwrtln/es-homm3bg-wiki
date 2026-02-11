@@ -1,0 +1,43 @@
+# Nixes
+
+=== "Pocos"
+
+    <figure markdown="span">
+        ![Pocos Nixes](../assets/units-blank-golden.webp){ width="340" align=right }
+    </figure>
+
+=== "Manada"
+
+    <figure markdown="span">
+        ![Manada de Nixes](../assets/units-blank-golden.webp){ width="340" align=right }
+    </figure>
+
+=== "Neutral"
+
+    <figure markdown="span">
+        ![Neutral Nix](../assets/units-blank-golden.webp){ width="340" align=right }
+    </figure>
+
+
+| Statistics | Few | Pack | Neutral |
+| :--- | :---: | :---: | :---: |
+| Town | [Cove](../towns/cove.md) | [Cove](../towns/cove.md) | [Neutral](../towns/neutral.md) |
+| Tier | :golden: | :golden: | :golden: |
+| Type | [:unit_ground:](index.md#ground-units) | [:unit_ground:](index.md#ground-units) | [:unit_ground:](index.md#ground-units) |
+| :attack: | 5 | **6** | 5 |
+| :defense: | 2 | 2 | 1 |
+| :health_points: | 7 | **8** | 7 |
+| :initiative: | 6 | **7** | 6 |
+| Cost | 12 :gold: | 20 :gold:<br>1 :valuables: | 20 :gold: |
+| Abilities | - | :unit_passive: This unit cannot take more than 4 :damage: from a single attack. | :unit_passive: This unit cannot take more than 5 :damage: from a single attack. |
+
+
+## Viene Con
+
+- [Expansión de Ensenada](../content/cove_expansion.md)
+
+
+## Ver También
+
+- [Lista de Unidades](index.md)
+- [Lista de Ciudades](../towns/index.md)

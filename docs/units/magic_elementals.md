@@ -1,0 +1,43 @@
+# Elementales Mágicos
+
+=== "Pocos"
+
+    <figure markdown="span">
+        ![Pocos Magic Elementals](../assets/units-blank-golden.webp){ width="340" align=right }
+    </figure>
+
+=== "Manada"
+
+    <figure markdown="span">
+        ![Manada de Magic Elementals](../assets/units-blank-golden.webp){ width="340" align=right }
+    </figure>
+
+=== "Neutral"
+
+    <figure markdown="span">
+        ![Neutral Magic Elementals](../assets/units-blank-golden.webp){ width="340" align=right }
+    </figure>
+
+
+| Statistics | Few | Pack | Neutral |
+| :--- | :---: | :---: | :---: |
+| Town | [Conflux](../towns/conflux.md) | [Conflux](../towns/conflux.md) | [Neutral](../towns/neutral.md) |
+| Tier | :golden: | :golden: | :golden: |
+| Type | [:unit_ground:](index.md#ground-units) | [:unit_ground:](index.md#ground-units) | [:unit_ground:](index.md#ground-units) |
+| :attack: | 4 | **5** | 3 |
+| :defense: | 2 | 2 | 1 |
+| :health_points: | 7 | 7 | 7 |
+| :initiative: | 7 | **9** | 7 |
+| Cost | 13 :gold: | 19 :gold:<br>1 :valuables: | 19 :gold: |
+| Abilities | :unit_attack: Ignores Retaliation Attacks. Attack all adjacent units. | :unit_attack: Ignores Retaliation Attacks. Attack all adjacent enemy units. :unit_passive: Ignore any [:spell:](../spells/index.md) effects and :damage: from Specialty. | :unit_passive: Immune to [Magic Arrow](../spells/magic_arrow.md). This unit deals elemental damage. |
+
+
+## Viene Con
+
+- [Expansión de Conflujo](../content/conflux_expansion.md)
+
+
+## Ver También
+
+- [Lista de Unidades](index.md)
+- [Lista de Ciudades](../towns/index.md)
