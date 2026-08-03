@@ -1,0 +1,25 @@
+# Libertinaje Salvaje
+
+<figure markdown="span">
+
+![Libertinaje Salvaje](../assets/astrologers_proclaim-wild_debauchery.webp){ width="475" align=right }
+
+</figure>
+
+___
+<p style="text-align: center;" markdown>[Proclama de los Astrólogos](index.md)</p>
+___
+<p style="text-align: center;" markdown>At the beginning of the next Resource round, all players gain 5 less :gold:.</p>
+___
+<p style="text-align: center;" markdown>*Sit down, there's a party in the tavern today!<br>We are thirsty again!<br>La la la!<br>We drink for a week of Wild Debauchery<br>For seven days now!<br>La la la!*</p>
+___
+
+
+## Viene Con
+
+- [Juego Principal](../content/core_game.md)
+
+
+## Ver También
+
+- [Lista de Cartas de los Astrólogos](index.md)
